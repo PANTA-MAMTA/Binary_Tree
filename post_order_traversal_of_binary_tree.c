@@ -42,10 +42,10 @@ int main()
        /*
        tree looks like this:
               9
-             /  \   
-             4   6
-            /  \  /
-            5   3 1
+            /   \   
+           4     6
+          / \   /
+         5  3  1
        */
 
     p->left=p1;
